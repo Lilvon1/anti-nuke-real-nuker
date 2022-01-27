@@ -1,0 +1,14 @@
+{
+  "name": "ANTI NUKER",
+  "version": "0.0.1",
+  "description": "my bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "LILVON",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "latest"
+  }
+}
